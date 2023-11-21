@@ -1,4 +1,4 @@
-public class MergeStringsAlternately1768 {
+public class MergeStringsAlternately_1768 {
     public static String mergeAlternately(String word1, String word2){
         StringBuilder word = new StringBuilder();
         int i = 0;

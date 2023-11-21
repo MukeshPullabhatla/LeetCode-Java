@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SingleElementInASortedArray540 {
+public class SingleElementInASortedArray_540 {
     public static int singleNonDuplicate(int[] nums){
         int left = 0;
         int right = nums.length-1;

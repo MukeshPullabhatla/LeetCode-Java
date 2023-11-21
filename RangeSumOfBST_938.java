@@ -1,4 +1,4 @@
-public class RangeSumOfBST938 {
+public class RangeSumOfBST_938 {
     public static class TreeNode{
         int val;
         TreeNode left;

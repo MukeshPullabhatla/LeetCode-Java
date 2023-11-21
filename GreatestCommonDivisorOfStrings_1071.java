@@ -1,4 +1,4 @@
-public class GreatestCommonDivisorOfStrings1071 {
+public class GreatestCommonDivisorOfStrings_1071 {
     public static String gcdOfStrings(String str1, String str2){
         if(!(str1+str2).equals(str2+str1)) return "";
         int gcd = gcd(str1.length(),str2.length());

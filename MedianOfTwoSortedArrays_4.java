@@ -1,5 +1,5 @@
 import java.util.*;
-public class MedianOfTwoSortedArrays4 {
+public class MedianOfTwoSortedArrays_4 {
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n = nums1.length;
         int m = nums2.length;
